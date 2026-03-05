@@ -21,10 +21,10 @@ AI-FT beta/
 ## UI Preview
 
 ### Dashboard
-![Dashboard](Frontend\dashboard.png)
+![Dashboard](Frontend/dashboard.png)
 
 ### Net Worth Page
-![Net Worth](Frontend\net-worth.png)
+![Net Worth](Frontend/net-worth.png)
 
 ### Budget Planner
 ![Budget Planner](Frontend/budget-planner.png)
