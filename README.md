@@ -21,19 +21,19 @@ AI-FT beta/
 ## UI Preview
 
 ### Dashboard
-![Dashboard](Frontend/dashboard.png)
+![Dashboard](frontend/dashboard.png)
 
 ### Net Worth Page
-![Net Worth](Frontend/net-worth.png)
+![Net Worth](frontend/net-worth.png)
 
 ### Budget Planner
-![Budget Planner](Frontend/budget-planner.png)
+![Budget Planner](frontend/budget-planner.png)
 ### Expenses
-![Expenses](Frontend/expenses.png)
+![Expenses](frontend/expenses.png)
 ### Loans
-![Loans](Frontend/loans.png)
+![Loans](frontend/loans.png)
 ### Insights
-![Insights](Frontend/insights.png)
+![Insights](frontend/insights.png)
 
 ## Features
 ### 1. Dashboard (Home)
