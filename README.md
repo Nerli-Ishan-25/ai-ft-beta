@@ -1,4 +1,4 @@
-# Finance Dashboard Frontend
+# Finance Tracker Dashboard
 
 ## Overview
 This repository contains a **single‑page finance dashboard** built with **React** and **Vite**.  All UI code lives under the `Frontend/src` directory.  The app displays a personal‑finance overview, net‑worth tracking, and a zero‑based budgeting tool.
